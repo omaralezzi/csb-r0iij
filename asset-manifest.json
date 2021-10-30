@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://omaralezzi.github.io/csb-r0iij/static/css/main.0e82b10e.chunk.css",
+    "main.js": "https://omaralezzi.github.io/csb-r0iij/static/js/main.80e157f9.chunk.js",
+    "main.js.map": "https://omaralezzi.github.io/csb-r0iij/static/js/main.80e157f9.chunk.js.map",
+    "runtime-main.js": "https://omaralezzi.github.io/csb-r0iij/static/js/runtime-main.5094d42c.js",
+    "runtime-main.js.map": "https://omaralezzi.github.io/csb-r0iij/static/js/runtime-main.5094d42c.js.map",
+    "static/js/2.8d4ecd9e.chunk.js": "https://omaralezzi.github.io/csb-r0iij/static/js/2.8d4ecd9e.chunk.js",
+    "static/js/2.8d4ecd9e.chunk.js.map": "https://omaralezzi.github.io/csb-r0iij/static/js/2.8d4ecd9e.chunk.js.map",
+    "index.html": "https://omaralezzi.github.io/csb-r0iij/index.html",
+    "static/css/main.0e82b10e.chunk.css.map": "https://omaralezzi.github.io/csb-r0iij/static/css/main.0e82b10e.chunk.css.map",
+    "static/js/2.8d4ecd9e.chunk.js.LICENSE.txt": "https://omaralezzi.github.io/csb-r0iij/static/js/2.8d4ecd9e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5094d42c.js",
+    "static/js/2.8d4ecd9e.chunk.js",
+    "static/css/main.0e82b10e.chunk.css",
+    "static/js/main.80e157f9.chunk.js"
+  ]
+}
